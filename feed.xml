@@ -1,7 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <item><title>Episode for December 02, 2025 06:06 AM</title><pubDate>Tue, 02 Dec 2025 11:06:39 GMT</pubDate><enclosure url="https://raw.githubusercontent.com/patsfan1267/daily-podcast/podcast-uploads/2025-12-02_06-06.mp3" type="audio/mpeg" /></item><item>
+    <item>
+      <title>PDF: Dark SBIR   DARC</title>
+      <description>Audio transcription of 'Dark SBIR - DARC.pdf' from Alexander Friedland
+
+Source: Dark SBIR - DARC.pdf</description>
+      <pubDate>Tue, 02 Dec 2025 14:50:24 GMT</pubDate>
+      <guid isPermaLink="false">patsfan1267-daily-podcast-2025-12-02_09-50-06</guid>
+      <enclosure url="https://raw.githubusercontent.com/patsfan1267/daily-podcast/podcast-uploads/PDF-2025-12-02_09-50-06.mp3" type="audio/mpeg" length="32439744" />
+    </item>
+    <item>
+      <title>Episode for December 02, 2025 06:06 AM</title>
+      <pubDate>Tue, 02 Dec 2025 11:06:39 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/patsfan1267/daily-podcast/podcast-uploads/2025-12-02_06-06.mp3" type="audio/mpeg" />
+    </item>
+    <item>
       <title>PDF: American Auxilia   DARC</title>
       <description>Audio transcription of 'American Auxilia - DARC.pdf' from Alexander Friedland
 
